@@ -3,4 +3,5 @@ public class Test{
     private String name = "zhang";
     private String sex = "male";
     private String school = "stu";
+    private String age = 18;
 }
